@@ -12,7 +12,7 @@ theme_color: light
 
 # Theme
 remote_theme: 'internet-de-france/athena'
-baseurl: '/achaquisse'
+baseurl: '/'
 
 # Defaults
 
